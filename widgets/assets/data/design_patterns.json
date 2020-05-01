@@ -1,0 +1,27 @@
+[
+    {
+        "id": "creational",
+        "title": "Creational",
+        "color": "0xFFF3D250",
+        "patterns": [
+            {
+                "id": "introduction",
+                "title": "Introduction",
+                "description": "Laborum qui ea velit sint officia culpa aute ad sint fugiat excepteur ex pariatur consectetur.",
+                "route": "/introduction"
+            }
+        ]
+    },
+    {
+        "id": "structural",
+        "title": "Structural",
+        "color": "0xFF90CCF4",
+        "patterns": []
+    },
+    {
+        "id": "behavioral",
+        "title": "Behavioral",
+        "color": "0xFFF78888",
+        "patterns": []
+    }
+]
