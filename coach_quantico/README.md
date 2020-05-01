@@ -8,6 +8,9 @@ kkkkkk...
 
 Feito para fins de estudo do SDK Flutter.
 
+## Telas
 
-![Alex Freire - Coach Quântico](../imagens/coach-quantico.png)
+| HOME | 
+ :--------------------------------------------------: |
+ <img src="../imagens/coach-quantico.png" width="200" /> |  
 
